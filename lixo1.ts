@@ -40,3 +40,30 @@ class Kitchen {
   }
 }  
    
+
+<a className="navbar-brand" href="#"></a>
+<button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+  <span className="navbar-toggler-icon"></span>
+</button>
+<div className="collapse navbar-collapse" id="collapsibleNavbar">
+  <ul className="navbar-nav ml-auto">
+    <li className="nav-item ">
+      <a className="nav-link" href="#home">Home <span className="sr-only">(current)</span></a>
+    </li>
+    <li className="nav-item">
+      <a className="nav-link" href="#about">Quien somos</a>
+    </li>
+    <li className="nav-item">
+      <a className="nav-link" href="#service">Instructores</a>
+    </li>
+    <li className="nav-item">
+      <a className="nav-link" href="#agency">sucursales</a>
+    </li>
+    <li className="nav-item">
+      <a className="nav-link" href="#contact">contacto</a>
+    </li>
+    <li className="nav-item">
+      <a className="nav-link" href="#whatsapp">whatsapp</a>
+    </li>
+  </ul>
+</div>
