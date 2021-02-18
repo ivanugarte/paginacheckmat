@@ -9,7 +9,7 @@ class Person {
     console.log(this.name.toString(), ': reciveMagazine: ', command.title);
   }
 }
-
+-
 // publisher
 class Magazine {
   
